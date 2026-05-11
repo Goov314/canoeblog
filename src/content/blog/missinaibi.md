@@ -3,6 +3,7 @@ title: 'Missinaibi-Moose River Trip Report'
 description: '26 days down the Missinaibi and Moose rivers in the summer of 2025'
 pubDate: 'May 14 2026'
 heroImage: '../../assets/thunderhouse-sunset.jpg'
+mapKml: '/data/missinaibi-map.kml'
 ---
 
 ### Intro and Background

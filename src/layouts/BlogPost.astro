@@ -5,10 +5,11 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
+import EarthMap from '../components/EarthMap.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, mapKml} = Astro.props;
 ---
 
 <html lang="en">
@@ -52,6 +53,9 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			.last-updated-on {
 				font-style: italic;
 			}
+			.map-container {
+
+			}
 		</style>
 	</head>
 
@@ -75,6 +79,12 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 							}
 						</div>
 						<h1>{title}</h1>
+						{mapKml && (
+      						<section class="map-container">
+        					<h2>Route Map</h2>
+        					<EarthMap kmlPath={mapKml}/>
+      						</section>
+    					)}
 						<hr />
 					</div>
 					<slot />

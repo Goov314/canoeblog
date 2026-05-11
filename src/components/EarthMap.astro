@@ -1,0 +1,66 @@
+---
+const { kmlPath } = Astro.props;
+
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
+const finalPath = `${baseUrl}${kmlPath}`;
+---
+<link 
+  rel="stylesheet" 
+  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" 
+/>
+
+<div 
+  id="map" 
+  data-kml={finalPath} 
+  style="height: 500px; width: 100%; border-radius: 12px; border: 1px solid #ccc;"
+></div>
+
+<script>
+  import L from 'leaflet';
+  import omnivore from 'leaflet-omnivore';
+  import 'leaflet/dist/leaflet.css';
+
+  delete (L.Icon.Default.prototype as any)._getIconUrl;
+  L.Icon.Default.mergeOptions({
+    iconRetinaUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png',
+    iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
+    shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
+  });
+
+  const mapElement = document.getElementById('map');
+  const kmlFile = mapElement?.dataset.kml;
+
+  if (kmlFile) {
+    const map = L.map('map').setView([0, 0], 2);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap'
+    }).addTo(map);
+
+    const runLayer = omnivore.kml(kmlFile)
+      .on('ready', function() {
+        runLayer.eachLayer(function(layer: any) {
+            if (layer.feature.properties && layer.feature.properties.name) {
+                layer.bindPopup(`<b>${layer.feature.properties.name}</b><br>${layer.feature.properties.description || ''}`);
+            }
+            if (layer.feature.properties) {
+                const props = layer.feature.properties;
+                const color = props.stroke || props['line-color'] || '#2b82cb';
+                const opacity = props['stroke-opacity'] || 0.8;
+                const weight = props['stroke-width'] || 4;
+
+                if (layer.setStyle) {
+                    layer.setStyle({
+                    color: color,
+                    weight: weight,
+                    opacity: opacity
+                    });
+                }
+            }
+            console.log("Feature properties:", layer.feature.properties);
+        });
+        map.fitBounds(runLayer.getBounds());
+      })
+      .addTo(map);
+  }
+</script>
