@@ -10,6 +10,7 @@
 	--header: #719173;
 	--text: 15, 18, 25;
 	--black: 15, 18, 25;
+	--gray: 72, 80, 90;
 	--white: 255, 255, 255;
 	--shadow: 96, 115, 159;
 	--background-light: 229, 233, 240;
@@ -125,6 +126,16 @@ hr {
 	}
 }
 
+.subtitle{
+	max-width: calc(100% - 2em);
+	margin: 0 2rem .5rem 2rem;
+	color: rgb(var(--gray));
+	border: none;
+	border-bottom: 2px solid var(--header);
+	line-height: 1.2;
+	font-size: 0.85em;
+}
+
 .sr-only {
 	border: 0;
 	padding: 0;
@@ -142,3 +153,4 @@ hr {
 	/* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
 	white-space: nowrap;
 }
+

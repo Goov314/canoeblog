@@ -141,6 +141,9 @@ We got off the water at 4:30pm and made pasta aglio olio for dinner which was de
 
 #### Day 9 - Why are there So Many People on this River?
 
+![Devil Rapids](../../assets/missinaibi/devil-rapids.jpg)
+<span class="subtitle">Devil Rapids</span>
+
 ```
 Distance Traveled: 49km
 Portages: 240m
@@ -204,6 +207,9 @@ We portaged 300m around Kettle Falls and made chicken wraps for lunch. We also r
 We arrived at our site at 5:30pm, 1km of the way down the portage, and saw a boys group from Minnesota at the site just a bit further down the portage from us. The view of the falls from where we stayed was impeccable, and we made some spaghetti for dinner and were excited for our pit day in the morning.
 
 #### Day 13 - PIT DAY!
+
+![Thunderhouse Lookout](../../assets/missinaibi/thunderhouse-lookout.jpg)
+<span class="subtitle">Lookout over Thunderhouse Falls from the Portage</span>
 
 ```
 Distance Traveled: 0km
