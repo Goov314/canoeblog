@@ -120,7 +120,7 @@ Campsite: Thunder Falls - 17U 32655E 541090N
 
 It was cloudy and a bit rainy all day, and we got on the water at 8:30am after a breakfast of oatmeal.
 
-We had 2 relatively short portages over some waterfalls, a 275m and 200m. We also ran a few sets incluidng Calf Rapids and St. Peters Rapids. We had tuna wraps for lunch.
+We had 2 relatively short portages over some waterfalls, a 275m and 200m. We also ran a few sets including Calf Rapids and St. Peters Rapids. We had tuna wraps for lunch.
 
 At one point the rain became so bad that we had to pull over to the side of the river and hide under some trees for a few minutes waiting for the rain to let up. We arrived at the campsite at 3:30pm and made chili for dinner before going to bed.
 
