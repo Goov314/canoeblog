@@ -17,6 +17,9 @@ There are a couple of famous sections along the river, including the cliff paint
 ### Trip Report
 #### Day 1 - Drive to Missinaibi
 
+![Put In](../../assets/missinaibi/put-in.jpg)
+<span class="subtitle">Dog Lake Put-In</span>
+
 ```
 Distance Traveled: 0km
 Portages: None
@@ -31,6 +34,9 @@ Along our drive we saw a moose at the side of the road, and found a pair of old 
 We eventually reached the put-in on Dog Lake at 7:30pm, set up our tents by the boat launch and made burgers for dinner. We played some president in the tents before heading to sleep, ready for our first day of paddling in the morning.
 
 #### Day 2 - First Day on the Water
+
+![Crooked Lake](../../assets/missinaibi/crooked-lake.jpg)
+<span class="subtitle">Crooked Lake</span>
 
 ```
 Distance Traveled: 20km
@@ -47,6 +53,9 @@ We got off the water at the midpoint of Crooked Lake at about 4:00pm, set up our
 
 #### Day 3 - Lake Missinaibi
 
+![Tarp Sailing](../../assets/missinaibi/tarp-sailing.jpg)
+<span class="subtitle">Tarp Sailing on Missinaibi Lake</span>
+
 ```
 Distance Traveled: 16km
 Portages: 385m
@@ -62,6 +71,9 @@ We got off the water at 3:10pm, it rained a bit during campsite setup, but it wa
 
 #### Day 4 - Finishing the Lake
 
+![Missinaibi Lake](../../assets/missinaibi/missinaibi-lake.jpg)
+<span class="subtitle">Lunch on Missinaibi Lake</span>
+
 ```
 Distance Traveled: 28km
 Portages: None
@@ -76,6 +88,9 @@ We started the day with strong tailwinds, but they shifted throughout the day in
 We stopped for the night just before the first set of the river at about 3:30pm. We ate burrito bowls for dinner and were excited to start the whitewater of the trip in the morning!
 
 #### Day 5 - The First Sets
+
+![Peterbell Marsh](../../assets/missinaibi/peterbell.jpg)
+<span class="subtitle">View from our Site at Peterbell Cliff</span>
 
 ```
 Distance Traveled: 35km
@@ -110,6 +125,9 @@ To avoid Allan Falls, we decided to take an offchannel around an island, ending 
 We reached Greenhill rapids at 4:00pm and decided it was much too late in the day to start a 1.4km section of CIII whitewater, so, to much dissapointment, we decided to take the portage instead. Having so much gear, we had to double or triple carry the whole portage, ending up walking over 5km each and finishing it at 6:00pm. We took a quick swim in the river at the end and then had chicken alfredo for dinner. 
 
 #### Day 7 - Don't go Chasing Waterfalls
+
+![Split Rock Falls](../../assets/missinaibi/split-rock-falls.jpg)
+<span class="subtitle">Split Rock Falls</span>
 
 ```
 Distance Traveled: 21km
@@ -161,6 +179,9 @@ We got to the rock at 7:20pm, and made mac n' cheese before going to bed. The wa
 
 #### Day 10 - A Bunch More Waterfalls
 
+![Glass Falls](../../assets/missinaibi/glass-falls.jpg)
+<span class="subtitle">Beach at the Site at Glass Falls</span>
+
 ```
 Distance Traveled: 23km
 Portages: 715m
@@ -175,6 +196,9 @@ It was cloudy and rained throughout the day, and we mostly had flatwater aside f
 We got off the water at 2:00pm and our campside had an enormous beach where we went swimming and a self-care Sunday. The Minnesotans slept on the same site as it was so big. We made delicious pita pizzas for dinner.
 
 #### Day 11 - Monk Morning in Mattice
+
+![Rock Island Rapids](../../assets/missinaibi/rock-island-rapids.jpg)
+<span class="subtitle">Rock Island Rapids</span>
 
 ```
 Distance Traveled: 35km
@@ -192,6 +216,9 @@ Just past Mattice, we reached Rock Island Rapids, the largest runnable set for u
 We reached a portage around another smaller set that housed our campsite and took our gear out at the start and portaged it to the site, reaching it at 5:30pm. On the portage we saw the Minnesotans again, and another new group, Camp Pathfinder. We made stir fry for dinner before going to bed.
 
 #### Day 12 - Arrival at Thunderhouse
+
+![Thunderhouse Falls](../../assets/missinaibi/thunderhouse-rock.jpg)
+<span class="subtitle">View from our Site at Thunderhouse Falls</span>
 
 ```
 Distance Traveled: 40km
@@ -224,6 +251,9 @@ In the afternoon, we cleaned out the wannigan and played a game of white elephan
 
 #### Day 14 - Portages through Hell... Literally
 
+![Hell's Gate Portage](../../assets/missinaibi/hells-gate.jpg)
+<span class="subtitle">View from Hell's Gate Portage over the River</span>
+
 ```
 Distance Traveled: 8km
 Portages: 3200m
@@ -238,6 +268,9 @@ We finally reached the entrance to Hell's Gate, a 2km long canyon of CIV and CV 
 We finished the portage at 1:30pm and made tuna wraps for lunch before relaxing for the rest of the afternoon. Before dinner, we had to go back down the hill and bring back up pots of water to make mac and cheese for dinner. 
 
 #### Day 15 - The Lady in the Red Canoe
+
+![Pebble Beach Campsite](../../assets/missinaibi/pebble-beach.jpg)
+<span class="subtitle">Pebble Beach Campsite</span>
 
 ```
 Distance Traveled: 56km
@@ -282,6 +315,9 @@ We napped in our tents and then made a dinner of chili and made hot chocolate fo
 
 #### Day 18 - End of the Missinaibi
 
+![Hunter's Cabin](../../assets/missinaibi/cabin.jpg)
+<span class="subtitle">Hunter's Cabin at the merge of the Missinaibi and Matagami Rivers</span>
+
 ```
 Distance Traveled: 35km
 Portages: None
@@ -311,6 +347,8 @@ We started the Moose River, and made it more than halfway down that section of t
 There was a storm after our dinner of burrito bowls at night, and it was so windy, we thought our tents were going to blow away. One tent did, but we luckily caught it before it was lost for good.
 
 #### Day 20 - Finishing the River
+![Moose River](../../assets/missinaibi/moose-river.jpg)
+<span class="subtitle">Moose River near Moose Factory</span>
 
 ```
 Distance Traveled: 37km
@@ -338,6 +376,9 @@ We made pigs in a blanket, potatoes and salad for dinner, our first time with fr
 
 #### Day 22 - Boat Tour
 
+![Boat Tour](../../assets/missinaibi/boat-tour.jpg)
+<span class="subtitle">Boat Tour in James Bay</span>
+
 ```
 Distance Traveled: 0km
 Portages: None
@@ -350,6 +391,9 @@ We had a nice sleep in and then made pancakes for breakfast. We had a boat tour 
 We visited the historic Hudson's Bay Company staff house, and after our dinner of taco bowls, Kim from the Cree Cultural Centre brought us some delicious potato wedges. We made hot chocolate and sat arond the fire before looking out at the stars.
 
 #### Day 23 - The Train
+
+![Ontario Northland Train](../../assets/missinaibi/train.jpg)
+<span class="subtitle">Ontario Northland Train from Moosonee to Cochrane</span>
 
 ```
 Distance Traveled: 5km
